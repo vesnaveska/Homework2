@@ -1,0 +1,1 @@
+ALTER TABLE books ADD isbestseller BOOL DEFAULT 0;
